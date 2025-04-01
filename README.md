@@ -12,9 +12,7 @@
 - Créez un tableau de bord dynamique avec Power BI pour visualiser l'avancement de projets
 - Détectez des faux billets avec R ou Python
 - Faites une étude sur l'eau potable
-- Optimisez la gestion des données d'une boutique avec R ou Python
 - Requêter une base de données avec SQL
-- Réaliser une étude de santé publique
 
 ## 🔗 Liens utiles
 - 🌐 [Mon site](https://tonpseudo.github.io)
