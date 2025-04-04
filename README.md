@@ -28,9 +28,7 @@
 
 
 ## 🔗 Liens utiles
-- 🌐 [Mon site](https://tonpseudo.github.io)
 - 💼 [LinkedIn](https://www.linkedin.com/in/julien-s-06931b14a/)
-- 📂 [Mes autres projets](https://github.com/tonpseudo?tab=repositories)
 
 ---
 
